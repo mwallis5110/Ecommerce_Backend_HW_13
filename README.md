@@ -4,6 +4,8 @@ E-Commerce Back End
 ## Description 
 This is the back end and database of an online e-commerce application.
 
+**In Collaboration with Joris Powathil (jorropowathil)
+
 ## Table of Contents
 #### [Installation Instructions](#installation-instructions)<br>
 #### [Using The Program](#using-the-program)<br>
@@ -18,12 +20,9 @@ This is the back end and database of an online e-commerce application.
 To initialize the program, users should open it in an integrated terminal and type 
 "npm i". This will run all dependencies for the application. When they are finished loading, the project can be initialized by typing either "node index.js" or "nodemon index.js".
 
-## Using the Program
-****TODO: Explain what happens when the program is run
-
 ### Demo:
 
-![A demonstration gif of the program](****TODO: Add walkthrough gif here)
+![A demonstration gif of the program](Screencast_Demo.gif)
 
 ## License
 #### [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
